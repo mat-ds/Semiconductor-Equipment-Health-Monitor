@@ -83,9 +83,4 @@ For LLM diagnostics, the notebook calls the Anthropic API. The anomaly detection
 - [ ] Fine-tune LLM on semiconductor equipment documentation
 - [ ] Build interactive real-time dashboard
 
-## Author
 
-**Nuerxida Pulati, PhD** — Materials Scientist & Physical Systems Modeler  
-[LinkedIn](https://linkedin.com/in/npulati)
-
-*Background: 10+ years in materials science and physical systems. This project applies time-series ML and generative AI to semiconductor equipment fault detection — combining domain knowledge of physical systems with modern data science methods.*
